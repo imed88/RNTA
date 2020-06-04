@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RNTA", "RNTA\", "{BB488D2B-EC29-4D4A-8792-09F6CBE57B3F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53086"
+		Debug.AspNetCompiler.PhysicalPath = "RNTA\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53086\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53086"
+		Release.AspNetCompiler.PhysicalPath = "RNTA\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53086\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53086"
+		SlnRelativePath = "RNTA\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB488D2B-EC29-4D4A-8792-09F6CBE57B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB488D2B-EC29-4D4A-8792-09F6CBE57B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EA55768-99D8-4791-893A-4ACD90C818E8}
+	EndGlobalSection
+EndGlobal
